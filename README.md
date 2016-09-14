@@ -1,4 +1,5 @@
 # Twitter-Emotion
+original repo: tstrawbr/Twitter-Emotion
 Computer Science Machine Learning Spring 2016, Kent State
 
 Functional Specs
