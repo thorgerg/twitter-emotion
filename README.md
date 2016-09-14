@@ -1,5 +1,5 @@
 # Twitter-Emotion
-original repo: tstrawbr/Twitter-Emotion
+original repo: https://github.com/tstrawbr/Twitter-Emotion
 
 Computer Science Machine Learning Spring 2016, Kent State
 
